@@ -1,1 +1,10 @@
 /target
+ex/
+config.toml
+.vscode/
+
+# Deliberately removed files
+parse.rs
+src/requests/get_puzzle.rs
+src/requests/utils.rs
+test_puzzles/
